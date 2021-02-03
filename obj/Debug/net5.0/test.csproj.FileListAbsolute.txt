@@ -1,0 +1,15 @@
+/Users/wanna/Desktop/Code/Csharp/test/bin/Debug/net5.0/test.deps.json
+/Users/wanna/Desktop/Code/Csharp/test/bin/Debug/net5.0/test.runtimeconfig.json
+/Users/wanna/Desktop/Code/Csharp/test/bin/Debug/net5.0/test.runtimeconfig.dev.json
+/Users/wanna/Desktop/Code/Csharp/test/bin/Debug/net5.0/test.dll
+/Users/wanna/Desktop/Code/Csharp/test/bin/Debug/net5.0/ref/test.dll
+/Users/wanna/Desktop/Code/Csharp/test/bin/Debug/net5.0/test.pdb
+/Users/wanna/Desktop/Code/Csharp/test/obj/Debug/net5.0/test.csprojAssemblyReference.cache
+/Users/wanna/Desktop/Code/Csharp/test/obj/Debug/net5.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wanna/Desktop/Code/Csharp/test/obj/Debug/net5.0/test.AssemblyInfoInputs.cache
+/Users/wanna/Desktop/Code/Csharp/test/obj/Debug/net5.0/test.AssemblyInfo.cs
+/Users/wanna/Desktop/Code/Csharp/test/obj/Debug/net5.0/test.csproj.CoreCompileInputs.cache
+/Users/wanna/Desktop/Code/Csharp/test/obj/Debug/net5.0/test.dll
+/Users/wanna/Desktop/Code/Csharp/test/obj/Debug/net5.0/ref/test.dll
+/Users/wanna/Desktop/Code/Csharp/test/obj/Debug/net5.0/test.pdb
+/Users/wanna/Desktop/Code/Csharp/test/obj/Debug/net5.0/test.genruntimeconfig.cache
